@@ -14,24 +14,5 @@
     "trek-engine",
     "captcha"
   ],
-  "main": "lib/captcha",
-  "scripts": {
-    "test": "nyc ava"
-  },
-  "devDependencies": {
-    "ava": "0.22.0",
-    "nyc": "11.1.0",
-    "request": "2",
-    "request-promise": "4.2.1"
-  },
-  "ava": {
-    "concurrency": 5
-  },
-  "nyc": {
-    "reporter": [
-      "html",
-      "lcov",
-      "text"
-    ]
-  }
+  "main": "lib/captcha"
 }
