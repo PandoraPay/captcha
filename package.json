@@ -1,5 +1,5 @@
 {
-  "name": "trek-captcha",
+  "name": "captcha",
   "version": "0.4.0",
   "description": "A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No canvas.",
   "repository": "trekjs/captcha",
